@@ -1,0 +1,17 @@
+{
+    "name": "CenturyGame.MyRotate.Editor",
+    "references": [
+        "GUID:7b3d4ffda09b5a246bfe1d6b91fd3f17"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

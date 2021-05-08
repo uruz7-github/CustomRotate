@@ -1,0 +1,9 @@
+{
+"name": "com.centurygame.myrotate",
+"displayName": "MyRotate",
+"description": "My Rotate Plugin",
+"version": "1.0.2",
+"unity": "2018.3",
+"license": "MIT",
+"dependencies": {}
+}
